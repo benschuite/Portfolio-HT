@@ -11076,7 +11076,7 @@ body {
   #mainNav .nav-link:active {
     color: #fff;
   }
-  #mainNav.navbar-shrink {
+ /* #mainNav.navbar-shrink {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
@@ -11097,7 +11097,7 @@ body {
     color: #64a19d;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
-  }
+  }*/
 }
 
 .btn {
